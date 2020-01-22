@@ -4,7 +4,7 @@
 - Open phpmyadmin then create database.
 - Copy .env.example file to .env and set database credentials there
 - Open terminal then Run command " php artisan migrate ".
-- Run command php artisan key:generate
+- Run command " php artisan key:generate "
 - And the next step is Run command " php artisan serve ".
 - After this proccess Hit this Url in your browser " http://127.0.0.1:8000/ ".
 

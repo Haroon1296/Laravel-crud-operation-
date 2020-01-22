@@ -1,6 +1,6 @@
 ## How to use
 
-- Run " composer install "
+- Run command " composer install "
 - Open phpmyadmin then create database.
 - Copy .env.example file to .env and set database credentials there
 - Open terminal then Run command " php artisan migrate ".
